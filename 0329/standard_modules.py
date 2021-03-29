@@ -62,3 +62,5 @@ print(os.path.relpath('/Users/codeit/PycharmProjects'))
 
 # 주어진 경로들을 병합
 print(os.path.join('/Users/codeit/PycharmProjects', 'standard_modules'))
+
+word = []
